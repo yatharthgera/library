@@ -5,7 +5,7 @@
    <h3>
 
        
-    &copy; 2020 VIT Online Library Management System | Designed by : YATHARTH GERA 19BCE1379    |    ANUPAM KUNWAR 19BCE1369 </a> 
+    &copy; 2020 VIT Online Library Management System | Designed by : YATHARTH GERA 19BCE1379     </a> 
     </h3>
     </div>
 
