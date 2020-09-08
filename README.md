@@ -1,4 +1,4 @@
-# library management tool
+# library management systems
 install xampp on your systen
 copy all these files in c:/xampp/htdocs/library
 start xampp server
